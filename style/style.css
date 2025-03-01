@@ -1,3 +1,8 @@
+:root {
+    --primary-color: #58d999;
+    --bkg-color: black;
+    --text-color: white;
+}
 *{
     padding: 0;
     margin: 0;
@@ -12,7 +17,7 @@
     display: flex;
     padding: 20px 0;
     justify-content: space-evenly;
-    background-color: black;
+    background-color: var(--bkg-color);
 }
 hr{
     color: white;
