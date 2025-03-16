@@ -1,6 +1,9 @@
-/*===============Our Team====================*/
-var copy = document.querySelector(".members-slide").cloneNode(true);
-document.querySelector(".members").appendChild(copy);
+document.addEventListener('DOMContentLoaded', () => {
+    'use strict';
+    
+    /*===============Our Team====================*/
+    var copy = document.querySelector(".members-slide").cloneNode(true);
+    document.querySelector(".members").appendChild(copy);
 
 
 /*===============Gallery====================*/
