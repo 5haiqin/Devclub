@@ -13,3 +13,12 @@
 ### 3. Community Events
 - **Hackathons**: Annual internal hackathon in March.
 - **Guest Tech Talks**: Industry experts sharing insights on AI and Cloud Computing.
+
+## 2026 Q2 Goals (Upcoming)
+
+### 1. Expanded Curriculum
+- **Machine Learning**: Introduction to ML with Python.
+- **Cybersecurity**: Basics of ethical hacking.
+
+### 2. Infrastructure
+- **Server Upgrade**: Migrating club projects to AWS.
