@@ -3,3 +3,13 @@ Crafted by an aspiring frontend developer eager to enhance their skills, our Dev
 
 ### Updates (2026)
 - Updated event schedule for the upcoming season.
+
+## Deployment
+
+To deploy this project locally:
+
+1. Clone the repo
+2. Open `index.html` in your browser.
+
+For production, we use **GitHub Pages**.
+
